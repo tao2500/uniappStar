@@ -1,0 +1,10 @@
+{
+  "navigationBarBackgroundColor": "#007AFF",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "测试页面",
+  "enablePullDownRefresh": true,
+  "disableScroll": true,
+  "usingComponents": {
+    "foot": "../myAssembly/foot"
+  }
+}

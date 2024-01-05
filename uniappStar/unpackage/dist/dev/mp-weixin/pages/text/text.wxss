@@ -1,0 +1,13 @@
+
+.box1{
+		background-color: cadetblue;
+}
+.active {
+		background-color: red;
+}
+.box2{
+		background-color: beige;
+}
+.box2_active{
+		background-color: black;
+}

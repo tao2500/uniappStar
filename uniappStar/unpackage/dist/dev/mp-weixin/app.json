@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/test/test",
+    "pages/index/index",
+    "pages/text/text",
+    "pages/storage/storag",
+    "pages/navTarget/navTarget",
+    "pages/myAssembly/foot"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/logo.png",
+        "selectedIconPath": "static/logo.png"
+      },
+      {
+        "text": "test",
+        "pagePath": "pages/test/test",
+        "iconPath": "static/logo.png",
+        "selectedIconPath": "static/logo.png"
+      },
+      {
+        "text": "text",
+        "pagePath": "pages/text/text",
+        "iconPath": "static/logo.png",
+        "selectedIconPath": "static/logo.png"
+      },
+      {
+        "text": "storage",
+        "pagePath": "pages/storage/storag",
+        "iconPath": "static/logo.png",
+        "selectedIconPath": "static/logo.png"
+      }
+    ],
+    "color": "blue"
+  },
+  "usingComponents": {}
+}

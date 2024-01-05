@@ -1,0 +1,1 @@
+<view>这里是navigator的目标页</view><view>收到上一页面参数：{{a}}</view>

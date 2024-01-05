@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title">{{a}}</text></view><view/><navigator href="https://developer.aliyun.com/article/1043799#slide-0">学习笔记</navigator><view/> 条件注释实现跨端兼容测试： <view/><view> 小程序会显示 </view><view> 微信小程序会显示 </view></view>
